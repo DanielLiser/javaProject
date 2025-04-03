@@ -37,7 +37,6 @@ public class Main {
                 }
             }
         }
-        //test to git second commit
 //        System.out.println(parkingLot.park(c,true));
 //        System.out.println(parkingLot.isFull(false));
 //        System.out.println(parkingLot.park(c1,false));
